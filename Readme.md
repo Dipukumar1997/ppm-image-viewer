@@ -1,4 +1,4 @@
-# Image Viewer
+# Image Viewer 
 
 A simple C program that reads and displays PPM (P6) images using SDL2.
 
