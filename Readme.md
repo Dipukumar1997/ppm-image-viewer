@@ -2,7 +2,7 @@
 
 A simple C program that reads and displays PPM (P6) images using SDL2.
 
-## Features
+## Features 
 
 - Loads and displays PPM (P6) images
 - Uses SDL2 for rendering
